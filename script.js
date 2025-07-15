@@ -16,7 +16,7 @@ countdiv.textContent= count;
 }
 function plusTen () {
     count = count+10;
-    if (count > 100)
+    if (count > 200)
         count = 100;
 countdiv.textContent= count;
 }
